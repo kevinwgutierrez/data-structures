@@ -1,4 +1,8 @@
 var BinarySearchTree = function(value) {
+    var high;
+    var low;
+    var middle = high/2
+    
 };
 
 
