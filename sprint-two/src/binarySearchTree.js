@@ -1,10 +1,11 @@
 var BinarySearchTree = function(value) {
-    var high;
-    var low;
-    var middle = high/2
-    
+  // create object
+  // create head property
+  // create tail property
+  // add to Tail
+  // remove Head
+  // search function
 };
-
 
 /*
  * Complexity: What is the time complexity of the above functions?
